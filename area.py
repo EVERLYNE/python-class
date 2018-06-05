@@ -1,0 +1,5 @@
+radius=input("what is the radius?")
+area=3.142*int(radius)*int(radius)
+perimeter=3.142*2*int(radius)
+print("the area is {}".format(area))
+print("perimeter is{}".format(perimeter))
